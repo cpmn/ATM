@@ -36,6 +36,7 @@ This project was made during week 15 of MIT xPRO bootcamp. ATM simulator, Deposi
 
 :heavy_check_mark: As a user I would like to Deposit an amount of money to my bank account.\
 :heavy_check_mark: As a user I would like to Withdraw an amount of money of my bank account.\
+:heavy_check_mark: As a user I wont be able to Withdraw more than my balance.\
 :heavy_check_mark: As a user I would like to see my balance after any transacction.\
 :heavy_check_mark: As a user I would like to have a user friendly UI.\
 
